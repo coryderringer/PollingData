@@ -5,5 +5,5 @@ This is a shiny app for visualizing polling data. We have several goals for the 
   2. Examine how this function changes over time; we hope to create a visual representation for the decrease in polling noise as elections get closer.
 
 
-## References:
+# References:
 	Polling data from fivethirtyeight: https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw-polls.csv
