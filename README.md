@@ -7,3 +7,5 @@ This is a shiny app for visualizing polling data. We have several goals for the 
 
 # References:
 Polling data from fivethirtyeight: https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw-polls.csv
+
+(R, Shiny)
